@@ -1,6 +1,6 @@
 # SimpleBank
-# Author: John Foust
-# Last Edit Date: 3/2/2021
+Author: John Foust
+Last Edit Date: 3/2/2021
 
 Program Dependencies: SQL, Visual Studio, C#
 
